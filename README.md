@@ -11,7 +11,7 @@ Functions:
 
 How it's processing:
 
-Once the time is set to ntp - to ensure, turn ntp off and on to ensure android syncs immediatelly - the video starts playing at the next fill minute.
+Once the time is set to ntp - to ensure, turn ntp off and on to ensure android syncs immediatelly - the video starts playing at the next full minute.
 If the time is set on all devices to the same, the video starts the same time on all devices.
 
 With that, no further network connection is needed and the devices can run standalone.
